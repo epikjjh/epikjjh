@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![epikjjh's github stats](https://github-readme-stats.vercel.app/api?username=epikjjh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **epikjjh/epikjjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
